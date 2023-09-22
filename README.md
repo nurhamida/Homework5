@@ -1,2 +1,2 @@
 # Homework5
-Homework 5 pada materi Data Science &amp; Machine Learning.
+Hasil pengerjaan homework pada materi Data Science and Machine Learning.
